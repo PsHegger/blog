@@ -1,0 +1,7 @@
+[submodule "themes/erblog"]
+	path = themes/erblog
+	url = https://github.com/ertuil/erblog.git
+[submodule "public"]
+	path = public
+	url = https://github.com/pshegger/pshegger.github.io.git
+	branch = master

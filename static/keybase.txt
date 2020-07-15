@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/pshegger
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pshegger.github.io
+  * I am pshegger (https://keybase.io/pshegger) on keybase.
+  * I have a public key with fingerprint DEF3 A310 B451 3FF0 8B29  CD4F 76C3 E614 6820 77E1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cb828a0d70860878d0f0ae4dbd89e7a654fc86008862c3f53db65c1684f02da70a",
+      "fingerprint": "def3a310b4513ff08b29cd4f76c3e614682077e1",
+      "host": "keybase.io",
+      "key_id": "76c3e614682077e1",
+      "kid": "0101cb828a0d70860878d0f0ae4dbd89e7a654fc86008862c3f53db65c1684f02da70a",
+      "uid": "2d684f2a945d7a8ff8d690e541c6a119",
+      "username": "pshegger"
+    },
+    "merkle_root": {
+      "ctime": 1594883124,
+      "hash_meta": "4e1b4469a57ff5c06a6b3658b4154a54fde60072e37d0115d0e9bf0feb969f98",
+      "seqno": 16985578
+    },
+    "revoke": {
+      "sig_ids": [
+        "8b3cd570dc6ecf7b44be6d660b42c8e9ec54c202a8e83a8f99b9e755804ab2250f"
+      ]
+    },
+    "service": {
+      "hostname": "pshegger.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1594883129,
+  "expire_in": 157680000,
+  "prev": "63c4b1104795690faf8015f889e78ba4b1b0ec13541617b66883e6f328014181",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK7AnicrVNdaBxVGN202p9EW/fJoBRlqqIS4r0z9965sym1UYpgsW59iFBNx/u7
+O9mfWWdmt63tWjS2PqhgaylqRFpUArWkFk1rMYFQlMREXFICgqkFtRYf8lBpiiI+
+eCcqQvHReRnmfuc73/nOmfv5zcsz7W0TZevKyKWXTrbNnGvWM/7aP7w9Fg/lbiu3
+xyqppZcqSxUnfimQVs4CEEDBqU0ZkC6gBFCXSqABU0hyST3lMoKRFqYCKCW2cDR2
+JCdYQEKRBrZkLmBWl6WDakFFtSioJoZWKu0wBwKOMHS0BpTbnpBIu0Q4ikBEqA1c
+V0HTWAzjtMOI4yxW3UFozsyHvyTvP/D/s+76Ep0t01ObeQhLl1GtqSQeUBhBQRiE
+XgqMVVRlFWXQtbioCmZbq9llVVRUKis/CsMkNVckQQqB2EOUOtBGZkEWF/2KSpjp
+RApyhIjHsKs1FoAwwh2CKUcQI2YES2UEu7ZyXAkgxBIoj2ugFfeIpz1qdMTq2Wpo
+JhCPYuxSIyFSjbCk0ulxUDC+xVbuKYtyR0jsAimIEto1U7kikhATiS2o8pTASNjA
+ZlRRx2zsedyYhjEFiHHbxkBb/c10WtQIxBJ5GtR1BnQXgqRY53+FVovCJBRh2dSL
+SVKLc6k9ye5a2rBTcf9vKp8HVWl+FtPRUFEchFWzjEFe75zXZaldtSBSfpAisEso
+ME86RzUMJXEE4hAC5HrYZKWZpgBiTdPsKWemxoES0DEZEuhyQgyrItqxDQxBCv+1
+0rGNTlYwnMa/KkvqkbKa5yaeviHT1p5ZceOy9BZl2lff8s/duvjFqszx/V8NTI4t
+bpruWP3yrrPDRz++kDR3hOO/+J09+xevDWW/y45mrz438PtDkz8dybz29k2tod7m
+6w/8UO2Y3Tdx17HZN/PfP5598sCDfdsObf7wjezy20q393eOf/Trl48+DJ1X5/oP
+rh8e2Xn+zPy3h7ZOHX5/4ZH8lrknro5MHYNrLn996vmZzrnK3vuOr3gm+mTw5+7e
+Oz7dtqp2/+S6V+6pL2z4Zv5wX09yYgxfWbM4Wn4Pbc8fGbz8Tik/eil+rLflN1bu
+HRu3ro1/dve98/ncwLJSV8dZfOHAW2x4cKhv46bfwvOtqZl9d75w68bujuk4v/5g
+6/T0xYVTW2Z7KnM/vtt68YOta49uXrfhxJ8/H4UF
+=EdOq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pshegger
+
+==================================================================

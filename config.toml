@@ -1,0 +1,46 @@
+baseURL = "http://pshegger.github.io/"
+languageCode = "en-us"
+title = "pshegger"
+theme = "erblog"
+googleAnalytics = "UA-72812058-1"
+
+[params]
+    author = "Gergely Hegedüs"
+    badge = "green"
+    quote = "orange"
+    index_posts_num = 5
+    google_search = false
+    description = "A place to find all my Articles & Talks"
+    portrait = "portrait.png"
+    bio = """
+    <p>I'm a Software Developer since 2013.</p>
+    <p>My main fields are Android, Kotlin and Backend development, but I like exploring new things to have a bit of knowledge in a lot of different part of CS and Software Development.</p>
+    <br/>
+    <p>The aim of this website is to have a single place where all my professional work can be found.</p>
+    """
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[[menu.icon]]
+    url = "mailto:pshegger@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/pshegger"
+    name = "github"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/pshegger"
+    name = "twitter"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/gergely-heged%C3%BCs-5a294265/"
+    name = "linkedin"
+    weight = 1

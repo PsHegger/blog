@@ -1,0 +1,35 @@
+name: Build & Deploy
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    name: Build & Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Brew
+        run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+      - name: Install Hugo
+        run: brew install hugo
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.API_TOKEN_GITHUB }}
+          submodules: true
+      - name: Checkout master
+        run: |
+          cd public
+          git checkout master
+          cd ..
+      - name: Build site
+        run: hugo
+      - name: Deploy site
+        run: |
+          cd public
+          git config user.name "pshegger"
+          git config user.email "pshegger@gmail.com"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "rebuilding site $(date)"
+          git push origin master
