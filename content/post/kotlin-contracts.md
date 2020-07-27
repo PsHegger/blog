@@ -116,3 +116,6 @@ Currently there are 3 types of return state indicators: `returns` (without any a
 When writing your contracts there are a few things to keep in mind. First of all, contracts are not verified, which means that you can write a function with a wrong contract and this may lead to unexpected errors at **runtime**.
 
 The other important thing to remember is that contracts are an experimental feature in Kotlin 1.3 and because of that the syntax may change in the future, so you might want to wait until its stable release to use it in production.
+
+---
+This post was originally published on [kotlindevelopment.com](https://www.kotlindevelopment.com/). If you liked it please consider visiting and reading some other articles there.

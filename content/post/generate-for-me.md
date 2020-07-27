@@ -272,3 +272,6 @@ If we did everything correctly, once the build is finished there will be a newly
 If you would like to have a look at the final version of the code you can do that at [https://github.com/PsHegger/recycleradapter-generator/tree/0.1.0](https://github.com/PsHegger/recycleradapter-generator/tree/0.1.0).
 
 It is also a bit extended and works as a standalone library, so if you're an Android developer and would like to use it in your project feel free to do so.
+
+---
+This post was originally published on [kotlindevelopment.com](https://www.kotlindevelopment.com/). If you liked it please consider visiting and reading some other articles there.
