@@ -1,7 +1,7 @@
 +++
 author = "Gergely Hegedüs"
 title = "Turning a Camera Feed into a Solved Sudoku"
-date = "2020-08-04"
+date = "2020-08-12"
 description = "An introduction to a simple application that uses ML Kit & maths to create an augmented reality sudoku solver"
 tags = [
     "programming",
