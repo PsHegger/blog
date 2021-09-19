@@ -1,7 +1,7 @@
 +++
 title = "About Me"
 description = "Some basic info about me"
-date = "2020-07-15"
+date = "2021-09-19"
 author = "Gergely Hegedüs"
 +++
 
@@ -11,8 +11,4 @@ Like many other startups, this one couldn't convince people to use its product s
 
 In the meantime, we got more and more projects, but we didn't have enough people so I started to work on backend development too. This is when I learned Rails and Node.js
 
-I left this company after more than 5 years to find new challenges and I started working at another small company ([Makery](https://www.makery.co/)) at the start of 2019.
-
-At this time this company had even fewer employees than my previous one, but they still managed to work on great projects with well-known companies, which was really attractive to me.
-
-Since then I had the chance to work on bigger scale projects than ever (one of our apps has **1m+ downloads** with a vast amount of active users) and in the meantime learn new things like Micronaut.
+I left this company after more than 5 years to find new challenges and I started working at another small company at the start of 2019. We were working as a contractor for other companies, most notably for [Tier](https://www.tier.app/) who treated us like any of their own employees. I quickly became one of the first Android developers of their [consumer app](https://play.google.com/store/apps/details?id=com.tier.app), and even though I worked on other Tier related products too, I spent most of my time with that application. Since then they acquired our company, so currently I'm officially a Tier employee.
