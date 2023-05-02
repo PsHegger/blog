@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Install Brew
         run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+      - name: Add Brew to Path
+        run: eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
       - name: Install Hugo
         run: brew install hugo
       - name: Checkout code
