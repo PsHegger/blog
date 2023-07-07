@@ -1,1 +1,10 @@
 /* TODO */
+:root, [data-theme="default"] {
+  --color-primary: rgb(56, 148, 94) !important;
+  --color-inline-code: rgb(35, 164, 190) !important;
+}
+
+[data-theme="dark"] {
+  --color-primary: rgb(106, 200, 144) !important;
+  --color-inline-code: rgb(83, 200, 223) !important;
+}
