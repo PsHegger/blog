@@ -1,5 +1,5 @@
 +++
-author = "Gergely Hegedüs"
+author = "pshegger"
 title = "Procedural Dungeon Generation"
 date = "2022-03-10"
 description = "Procedural generation is the key to writing games with endless content. In this article I show you how I generate a dungeon that can be later used in a game."
@@ -11,6 +11,9 @@ tags = [
 categories = [
     "gamedev"
 ]
+toc = true
+related = true
+social_share = true
 +++
 
 Procedural generation is incredible. It is the key to writing games with endless content. Without it, [Minecraft](https://www.minecraft.net/) couldn’t have (nearly) infinite worlds with infinite terrain. [Spelunky](https://spelunkyworld.com/) would only contain a few rooms, and we could learn the layout and enemy placement instead of learning the game mechanics. These are only a few examples, but there are a lot of games that use this mechanic for generating content.

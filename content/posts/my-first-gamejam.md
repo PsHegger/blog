@@ -1,5 +1,5 @@
 +++
-author = "Gergely Hegedüs"
+author = "pshegger"
 title = "My First Gamejam"
 date = "2023-05-02"
 description = "My thought and experiences about my first gamejam (Ludum Dare 53)"
@@ -12,6 +12,9 @@ tags = [
 categories = [
     "gamedev"
 ]
+toc = true
+related = true
+social_share = true
 +++
 
 > If you're only here to try the game, you can do it on [itch.io](https://harmlesshawk.itch.io/wheres-my-lunch)

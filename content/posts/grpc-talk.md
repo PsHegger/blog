@@ -1,5 +1,5 @@
 +++
-author = "Gergely Hegedüs"
+author = "pshegger"
 title = "gRPC for Kotliners"
 date = "2019-11-14"
 description = "gRPC is a worthy alternative for REST, let's explore together what it is and how to use it as a Kotlin developer."

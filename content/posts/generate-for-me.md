@@ -1,5 +1,5 @@
 +++
-author = "Gergely Hegedüs"
+author = "pshegger"
 title = "@GenerateForMe"
 date = "2019-11-11"
 description = "Annotations are extremely versatile especially if we write our own processor to overcharge our development. Learn how to write one in Kotlin."
@@ -12,6 +12,9 @@ tags = [
 categories = [
     "kotlin"
 ]
+toc = true
+related = true
+social_share = true
 +++
 
 ## Write once, use everywhere

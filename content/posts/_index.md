@@ -1,6 +1,7 @@
 +++
 aliases = ["posts","articles","blog"]
 title = "Posts"
-author = "Gergely Hegedüs"
+description = "Everything in one place"
+author = "pshegger"
 tags = ["index"]
 +++

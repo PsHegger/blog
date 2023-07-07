@@ -1,0 +1,28 @@
+avatar = 'portrait.png'
+grayscale_avatar = true
+author = 'pshegger'
+
+twitterSite = "pshegger"
+twitterCreator = "pshegger"
+
+footer_socials = true
+home_hero_socials = true
+about_page_socials = true
+
+custom_css = 'custom.css'
+
+# Enable or disable individual social icons
+[social.links]
+  twitter = "pshegger"
+  github = "pshegger"
+  stack_overflow = "751482/pshegger"
+  email = "pshegger@gmail.com"
+  # linkedin = "username"
+
+# Enable or disable individual social share icons in posts
+[social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  reddit = true
+  email = true

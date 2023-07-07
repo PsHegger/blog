@@ -1,5 +1,5 @@
 +++
-author = "Gergely Hegedüs"
+author = "pshegger"
 title = "h@cktivitycon 2021 CTF"
 date = "2021-09-20"
 description = "Writeups and my thoughts about the 2021 h@cktivitycon CTF"
@@ -12,8 +12,11 @@ tags = [
     "python"
 ]
 categories = [
-    "blog"
+    "ctf"
 ]
+toc = true
+related = true
+social_share = true
 +++
 
 This year’s [h@cktivitycon](https://www.hackerone.com/hacktivitycon) was held last Saturday, but even before it started, there was another event HackerOne had organized: this year’s CTF. It began on Thursday and ran for 48 hours. As I wasn’t following the events, it was already Friday when I realized it was running. I still had a bit more than a day to complete as many challenges as possible, so I decided to register and see how it goes.
