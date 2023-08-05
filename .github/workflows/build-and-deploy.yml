@@ -18,10 +18,11 @@ jobs:
         with:
           token: ${{ secrets.API_TOKEN_GITHUB }}
           submodules: true
-      - name: Checkout master
+      - name: Checkout & clear old site
         run: |
           cd public
           git checkout master
+          rm -rf *
           cd ..
       - name: Build site
         run: hugo
