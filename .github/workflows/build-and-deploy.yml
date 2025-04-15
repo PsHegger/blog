@@ -14,9 +14,9 @@ jobs:
       - name: Install Hugo
         run: brew install hugo
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.API_TOKEN_GITHUB }}
+          token: ${{ secrets.GH_PAT }}
           submodules: true
       - name: Checkout & clear old site
         run: |
