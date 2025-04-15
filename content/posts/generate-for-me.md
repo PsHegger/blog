@@ -1,21 +1,11 @@
-+++
-author = "pshegger"
-title = "@GenerateForMe"
-date = "2019-11-11"
-description = "Annotations are extremely versatile especially if we write our own processor to overcharge our development. Learn how to write one in Kotlin."
-tags = [
-    "programming",
-    "kotlin",
-    "annotation",
-    "kapt"
-]
-categories = [
-    "kotlin"
-]
-toc = true
-related = true
-social_share = true
-+++
+---
+author: "pshegger"
+title: "@GenerateForMe"
+date: "2019-11-11"
+description: "Annotations are extremely versatile especially if we write our own processor to overcharge our development. Learn how to write one in Kotlin."
+tags: ["programming", "kotlin", "annotation", "kapt"]
+categories: ["kotlin"]
+---
 
 ## Write once, use everywhere
 

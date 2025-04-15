@@ -1,0 +1,43 @@
+baseURL: https://pshegger.github.io/
+languageCode: en-us
+title: pshegger's blog
+theme: PaperMod
+
+enableRobotsTxt: false
+buildDrafts: false
+buildFuture: false
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShareButtons: ["x", "linkedin", "reddit", "ycombinator"]
+  ShowToc: true
+  comments: false
+  homeInfoParams:
+    Title: "pshegger's blog"
+  socialIcons:
+    - name: "bluesky"
+      url: "https://bsky.app/profile/pshegger.bsky.social"
+    - name: "github"
+      url: "https://github.com/PsHegger/"
+    - name: "stackoverflow"
+      url: "https://stackoverflow.com/users/751482/pshegger"
+    - name: "ctftime"
+      url: "https://ctftime.org/user/62391"
+    - name: "hackthebox"
+      url: "https://app.hackthebox.com/users/746408"
+
+analytics:
+  google:
+    SiteVerificationTag: "G-NKBPT9CS94"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10

@@ -1,21 +1,11 @@
-+++
-author = "pshegger"
-title = "My First Gamejam"
-date = "2023-05-02"
-description = "My thought and experiences about my first gamejam (Ludum Dare 53)"
-tags = [
-    "gamedev",
-    "gamejam",
-    "ludum dare",
-    "godot"
-]
-categories = [
-    "gamedev"
-]
-toc = true
-related = true
-social_share = true
-+++
+---
+author: "pshegger"
+title: "My First Gamejam"
+date: "2023-05-02"
+description: "My thought and experiences about my first gamejam (Ludum Dare 53)"
+tags: ["gamedev", "gamejam", "ludum dare", "godot"]
+categories: ["gamedev"]
+---
 
 > If you're only here to try the game, you can do it on [itch.io](https://harmlesshawk.itch.io/wheres-my-lunch)
 

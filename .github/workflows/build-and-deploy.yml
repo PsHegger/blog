@@ -25,7 +25,7 @@ jobs:
           rm -rf *
           cd ..
       - name: Build site
-        run: hugo
+        run: hugo -e dev
       - name: Deploy site
         run: |
           cd public

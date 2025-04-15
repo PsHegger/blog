@@ -1,24 +1,11 @@
-+++
-author = "pshegger"
-title = "IrisCTF 2024"
-date = "2024-01-08"
-description = "Writeups and blog about the first CTF of this year"
-tags = [
-    "ctf",
-    "writeup",
-    "cryptography",
-    "python",
-    "sql injection",
-    "forensics",
-    "osint"
-]
-categories = [
-    "ctf"
-]
-toc = true
-related = true
-social_share = true
-+++
+---
+author: "pshegger"
+title: "IrisCTF 2024"
+date: "2024-01-08"
+description: "Writeups and blog about the first CTF of this year"
+tags: ["ctf", "writeup", "cryptography", "python", "sql injection", "forensics", "osint"]
+categories: [ "ctf" ]
+---
 
 [IrisCTF](https://ctftime.org/event/2085) has just ended, and since I was one of the participants, I decided to write a few thoughts about it, as well as write proper writeups for the challenges I managed to solve.
 

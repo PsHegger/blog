@@ -1,21 +1,11 @@
-+++
-author = "pshegger"
-title = "RenderScript is Still alive"
-date = "2020-02-29"
-description = "RenderScript is a great way to compute large amount of data, so let's discover together what it is and when should it be considered."
-tags = [
-    "programming",
-    "android", 
-    "renderscript",
-    "parallelism"
-]
-categories = [
-    "android"
-]
-toc = true
-related = true
-social_share = true
-+++
+---
+author: "pshegger"
+title: "RenderScript is Still alive"
+date: "2020-02-29"
+description: "RenderScript is a great way to compute large amount of data, so let's discover together what it is and when should it be considered."
+tags: ["programming", "android",  "renderscript", "parallelism"]
+categories: ["android"]
+---
 
 I'm sure for most of you it's not a surprise, but I also think that there are people out there who either doesn't know what it is or simply tends to forget about it. The aim of this article is to show these people what it is and why should they use it.
 

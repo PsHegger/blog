@@ -1,21 +1,11 @@
-+++
-author = "pshegger"
-title = "Turning a Camera Feed into a Solved Sudoku"
-date = "2020-08-12"
-description = "An introduction to a simple application that uses ML Kit & maths to create an augmented reality sudoku solver"
-tags = [
-    "programming",
-    "android",
-    "mlkit",
-    "sudoku"
-]
-categories = [
-    "machine learning"
-]
-toc = true
-related = true
-social_share = true
-+++
+---
+author: "pshegger"
+title: "Turning a Camera Feed into a Solved Sudoku"
+date: "2020-08-12"
+description: "An introduction to a simple application that uses ML Kit & maths to create an augmented reality sudoku solver"
+tags: ["programming", "android", "mlkit", "sudoku"]
+categories: ["machine learning"]
+---
 
 A few months ago, I stumbled upon a [video](https://www.youtube.com/watch?v=hAyZ9K2EBF0) that led me into a rabbit hole. It resulted in a simple application that overlays a sudoku's solution into the camera image of the puzzle. This post is about the process of getting to the end result.
 

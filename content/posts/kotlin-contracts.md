@@ -1,20 +1,11 @@
-+++
-author = "pshegger"
-title = "Help Yourself and the Compiler with Contracts"
-date = "2019-03-21"
-description = "In the world of Kotlin, contracts represent a deal between the developer and the compiler. As a developer you can share insight of your code with the compiler and it can use this extra info for better code analysis."
-tags = [
-    "programming",
-    "kotlin",
-    "contracts"
-]
-categories = [
-    "kotlin"
-]
-toc = true
-related = true
-social_share = true
-+++
+---
+author: "pshegger"
+title: "Help Yourself and the Compiler with Contracts"
+date: "2019-03-21"
+description: "In the world of Kotlin, contracts represent a deal between the developer and the compiler. As a developer you can share insight of your code with the compiler and it can use this extra info for better code analysis."
+tags: ["programming", "kotlin", "contracts"]
+categories: ["kotlin"]
+---
 
 ## What are contracts?
 
