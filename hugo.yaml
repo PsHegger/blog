@@ -27,9 +27,9 @@ params:
     - name: "hackthebox"
       url: "https://app.hackthebox.com/users/746408"
 
-analytics:
-  google:
-    SiteVerificationTag: "G-NKBPT9CS94"
+services:
+  googleAnalytics:
+    id: G-NKBPT9CS94
 
 menu:
   main:
