@@ -8,13 +8,13 @@ buildDrafts: false
 buildFuture: false
 
 params:
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShareButtons: ["x", "linkedin", "reddit", "ycombinator"]
-  ShowToc: true
+  showReadingTime: true
+  showShareButtons: true
+  shareButtons: ["x", "linkedin", "reddit", "ycombinator"]
+  showToc: true
   comments: false
   homeInfoParams:
-    Title: "pshegger's blog"
+    title: "pshegger's blog"
   socialIcons:
     - name: "bluesky"
       url: "https://bsky.app/profile/pshegger.bsky.social"

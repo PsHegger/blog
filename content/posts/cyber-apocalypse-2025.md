@@ -3,7 +3,7 @@ author: "pshegger"
 title: "Cyber Apocalypse 2025"
 date: "2025-04-16"
 description: "Writeups from HTB's Cyber Apocalypse CTF 2025: Tales from Eldoria"
-tags: ["ctf", "writeup", "cryptography", "python", "forensics", "reversing", "template injection"]
+tags: ["ctf", "writeup", "cryptography", "python", "forensics", "reversing", "template injection", "Hack the Box", "HTB"]
 categories: [ "ctf" ]
 ---
 
